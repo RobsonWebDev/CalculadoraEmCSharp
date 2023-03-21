@@ -1,0 +1,15 @@
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\bin\Debug\net7.0\CalculadoraEmCSharp.exe
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\bin\Debug\net7.0\CalculadoraEmCSharp.deps.json
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\bin\Debug\net7.0\CalculadoraEmCSharp.runtimeconfig.json
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\bin\Debug\net7.0\CalculadoraEmCSharp.dll
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\bin\Debug\net7.0\CalculadoraEmCSharp.pdb
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\obj\Debug\net7.0\CalculadoraEmCSharp.csproj.AssemblyReference.cache
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\obj\Debug\net7.0\CalculadoraEmCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\obj\Debug\net7.0\CalculadoraEmCSharp.AssemblyInfoInputs.cache
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\obj\Debug\net7.0\CalculadoraEmCSharp.AssemblyInfo.cs
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\obj\Debug\net7.0\CalculadoraEmCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\obj\Debug\net7.0\CalculadoraEmCSharp.dll
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\obj\Debug\net7.0\refint\CalculadoraEmCSharp.dll
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\obj\Debug\net7.0\CalculadoraEmCSharp.pdb
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\obj\Debug\net7.0\CalculadoraEmCSharp.genruntimeconfig.cache
+C:\Users\Robson Almaviva\Documents\GitHub\CalculadoraEmCSharp\obj\Debug\net7.0\ref\CalculadoraEmCSharp.dll
