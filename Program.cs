@@ -159,7 +159,7 @@ namespace CalculadoraEmCSharp
 
             resultado = Math.Pow(primeiroValor, segundoValor);
 
-            Console.WriteLine("O numero {0} elevado a {1}ª ponencia é {2}", primeiroValor, segundoValor, resultado);
+            Console.WriteLine("O numero {0} elevado a {1}ª pontência é {2}", primeiroValor, segundoValor, resultado);
         }
     }
 }
